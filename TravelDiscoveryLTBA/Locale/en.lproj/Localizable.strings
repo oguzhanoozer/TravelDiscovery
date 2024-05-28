@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  TravelDiscoveryLTBA
+
+  Created by oguzhan on 15.05.2024.
+  
+*/
+
+// Discover
+
+"discover" = "Discover";
+"seeAll" = "See All";
+"popularDestination" = "Popular Destinations";
+"popularPlacesToEat" = "Popular Places to Eat";
+"trendingCreators" = "Trending Creators";
+
